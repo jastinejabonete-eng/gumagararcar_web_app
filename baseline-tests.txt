@@ -1,0 +1,6 @@
+00:00 +0: loading C:/Users/Janelyn/gumagararcar_test/test/widget_test.dart
+00:00 +0: storefront shows the collection and supports category filtering
+00:01 +1: checkout confirms the total and clears the cart
+00:02 +2: car color swatches update the selected color
+00:02 +3: cart quantity stays positive and items can be removed
+00:04 +4: All tests passed!

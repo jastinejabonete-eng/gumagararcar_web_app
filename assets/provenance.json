@@ -1,0 +1,99 @@
+[
+  {
+    "file": "assets\\images\\baniaga.jpg",
+    "origin": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1400&q=85",
+    "role": "Illustrative reference photograph; not the fictional vehicle itself.",
+    "size": [
+      1400,
+      933
+    ],
+    "sha256": "7A56092F68C27762F6BDA64CD4A6660616B622EC5241E18E43E6C024788751C9"
+  },
+  {
+    "file": "assets\\images\\jabacon.jpg",
+    "origin": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1400&q=85",
+    "role": "Illustrative reference photograph; not the fictional vehicle itself.",
+    "size": [
+      1400,
+      933
+    ],
+    "sha256": "c04c8cc539df249da9450372b55f300b32d91394923f64a82a7ba5068c8c67ed"
+  },
+  {
+    "file": "assets\\images\\oronos.jpg",
+    "origin": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1400&q=85",
+    "role": "Illustrative reference photograph; not the fictional vehicle itself.",
+    "size": [
+      1400,
+      932
+    ],
+    "sha256": "28761e10fddfa2684dc43eebc6549a1293b926f5abd2c5a2bdfea8221504acaf"
+  },
+  {
+    "file": "assets\\images\\ladra.jpg",
+    "origin": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1400&q=85",
+    "role": "Illustrative reference photograph; not the fictional vehicle itself.",
+    "size": [
+      1400,
+      827
+    ],
+    "sha256": "73b245f388c417068e0a3e0f1ed77438566831a4838f3d8768b01a0846bd29b8"
+  },
+  {
+    "file": "assets\\images\\jabonete.jpg",
+    "origin": "https://images.pexels.com/photos/10390687/pexels-photo-10390687.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "role": "Illustrative reference photograph; not the fictional vehicle itself.",
+    "page": "https://www.pexels.com/photo/10390687/"
+  },
+  {
+    "file": "assets\\images\\antonio.jpg",
+    "origin": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=1400&q=85",
+    "role": "Illustrative reference photograph; not the fictional vehicle itself.",
+    "size": [
+      1400,
+      933
+    ],
+    "sha256": "0d5ece3c8de895115afc0e9e445e02f3a864399748271d0b67d630824f08ab7a"
+  },
+  {
+    "file": "assets\\images\\abadia.jpg",
+    "origin": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1400&q=85",
+    "role": "Illustrative reference photograph; not the fictional vehicle itself.",
+    "size": [
+      1400,
+      933
+    ],
+    "sha256": "50758df42e6b7bb516af616b62ac488db060a201e851aa58fcb120a8ad29b707"
+  },
+  {
+    "file": "assets\\images\\castillo.jpg",
+    "origin": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=1400&q=85",
+    "role": "Illustrative reference photograph; not the fictional vehicle itself.",
+    "size": [
+      1400,
+      933
+    ],
+    "sha256": "2a615c240a89bf01eb3ab9090f74bfe1a93b5fcf618301541ef8f6d960e6c04b"
+  },
+  {
+    "file": "assets\\images\\tapia.jpg",
+    "origin": "https://images.pexels.com/photos/12870040/pexels-photo-12870040.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    "role": "Illustrative reference photograph; not the fictional vehicle itself.",
+    "page": "https://www.pexels.com/photo/12870040/"
+  },
+  {
+    "file": "assets\\fonts\\BarlowCondensed-SemiBold.ttf",
+    "origin": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/BarlowCondensed-SemiBold.ttf",
+    "role": "Locally bundled font, SIL Open Font License"
+  },
+  {
+    "file": "assets\\fonts\\Barlow-Regular.ttf",
+    "origin": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlow/Barlow-Regular.ttf",
+    "role": "Locally bundled font, SIL Open Font License"
+  },
+  {
+    "file": "assets\\fonts\\Barlow-SemiBold.ttf",
+    "origin": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlow/Barlow-SemiBold.ttf",
+    "role": "Locally bundled font, SIL Open Font License"
+  }
+]
